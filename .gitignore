@@ -4,6 +4,7 @@
 /dist
 /tmp
 /out-tsc
+contracts/**/artifacts/
 
 # Runtime data
 pids
